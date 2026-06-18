@@ -7,6 +7,32 @@ TruthLens AI is an AI-powered fact verification system that combines historical 
 Unlike traditional fake news classifiers that only predict whether a claim looks fake or real, TruthLens AI retrieves external evidence, ranks relevant articles, and determines whether the evidence supports, contradicts, or is insufficient to verify the claim.
 
 ---
+## Dataset
+
+The dataset used for training the machine learning model is not included in this repository due to GitHub file size limitations.
+
+### Dataset Information
+
+* Type: Fake News Detection Dataset
+* Size: ~119 MB
+* Format: CSV
+* Purpose: Training the TF-IDF + Logistic Regression classifier
+
+### Accessing the Dataset
+
+To run the project locally, place the dataset file inside the `data/` directory:
+
+```text
+TruthLens-AI/
+│
+├── data/
+│   └── dataset.csv
+```
+
+### Note
+
+The trained model (`logistic_model.pkl`) and vectorizer (`tfidf_vectorizer.pkl`) are already included in this repository, so retraining is not required to use the application.
+
 
 ## 🚀 Features
 
