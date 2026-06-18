@@ -282,7 +282,7 @@ This project provided practical experience in:
 
 **Aravind Murugesan**
 
-MCA Student | Machine Learning Engineer Aspirant
+MCA Graduate | Machine Learning Engineer Aspirant
 
 University of Madras
 
