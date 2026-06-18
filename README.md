@@ -112,7 +112,6 @@ Final Verdict
 
 > Add screenshot here
 # TruthLens AI
-
 ## Homepage
 
 ![Homepage](assets/homepage.png)
@@ -124,16 +123,14 @@ Final Verdict
 ![Verification](assets/verify_claim_1.png)
 
 ---
+## Final Verdict
+
+![Verdict](assets/verdict_supported.png)
 
 ## Evidence Retrieval
 
 ![Evidence](assets/evidence_claim.png)
 
----
-
-## Final Verdict
-
-![Verdict](assets/verdict_supported.png)
 ---
 
 ## 📊 Example
@@ -256,32 +253,6 @@ Used DeBERTa-based Natural Language Inference to determine:
 * Neutral
 
 ---
-# TruthLens AI
-
-
-## Homepage
-
-![Homepage](assets/homepage.png)
-
----
-
-## Claim Verification
-
-![Verification](assets/verify_claim_1.png)
-
----
-## Final Verdict
-
-![Verdict](assets/verdict_supported.png)
-
-## Evidence Retrieval
-
-![Evidence](assets/evidence_claim.png)
-
----
-
-
-
 ## 📈 Future Improvements
 
 * Google News Integration
