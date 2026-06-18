@@ -84,30 +84,30 @@ Final Verdict
 
 ## 📸 Screenshots
 
-### Home Page
-
 > Add screenshot here
+# TruthLens AI
 
-```markdown
-![Home Page](screenshots/home.png)
-```
+## Homepage
 
-### Verification Results
+![Homepage](assets/homepage.png)
 
-> Add screenshot here
+---
 
-```markdown
-![Results](screenshots/results.png)
-```
+## Claim Verification
 
-### Evidence Explorer
+![Verification](assets/verify_claim_1.png)
 
-> Add screenshot here
+---
 
-```markdown
-![Evidence](screenshots/evidence.png)
-```
+## Evidence Retrieval
 
+![Evidence](assets/evidence_claim.png)
+
+---
+
+## Final Verdict
+
+![Verdict](assets/verdict_supported.png)
 ---
 
 ## 📊 Example
