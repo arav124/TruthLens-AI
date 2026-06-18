@@ -270,6 +270,9 @@ Used DeBERTa-based Natural Language Inference to determine:
 ![Verification](assets/verify_claim_1.png)
 
 ---
+## Final Verdict
+
+![Verdict](assets/verdict_supported.png)
 
 ## Evidence Retrieval
 
@@ -277,9 +280,7 @@ Used DeBERTa-based Natural Language Inference to determine:
 
 ---
 
-## Final Verdict
 
-![Verdict](assets/verdict_supported.png)
 
 ## 📈 Future Improvements
 
